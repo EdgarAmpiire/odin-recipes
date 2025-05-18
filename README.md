@@ -5,5 +5,7 @@ I would have demonstrated learning and acquiring;
 - HTML skills that I have learnt along the way
 - Git commands and github skills
 
+Effects of project.
+
 I am glad that i have got to test my HTML skills and 
 I have to say i am pretty confident in HTML.
